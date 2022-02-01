@@ -29,7 +29,6 @@ class SavingAccount
     {
         $this->annualInterest += $amount;
     }
-
     public function addInterestToBalance():float
     {
         $sum = 0;
