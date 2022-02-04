@@ -7,9 +7,6 @@ require_once "VideoStoreTest.php";
 require_once "User.php";
 
 
-
-
-
 $app = new Application();
 // $app->testApp();
 $app->run();
