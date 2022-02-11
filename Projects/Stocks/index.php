@@ -13,7 +13,6 @@ $client = new Finnhub\Api\DefaultApi(
 
 
 
-
 // var_dump($client->companyProfile2("AAPL"));
 // var_dump($client->quote("AAPL"));
  
