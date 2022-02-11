@@ -10,7 +10,7 @@ $client = new Finnhub\Api\DefaultApi(
     $config
 );
 
-
+// Testing git
 
 
 // var_dump($client->companyProfile2("AAPL"));
